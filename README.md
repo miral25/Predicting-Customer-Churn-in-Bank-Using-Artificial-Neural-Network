@@ -3,8 +3,7 @@ In this project, we use customer data from a bank to construct predictive model 
 
 
 ![1  Trained ANN model, after Running 100 epoch and 86% accuracy](https://user-images.githubusercontent.com/29537650/86046940-b2aa6580-ba6b-11ea-8550-6e13a37234b3.png)
-
-                                        **Trained ANN model, after Running 100 epoch and 86% accuracy**
+                                         **Trained ANN model, after Running 100 epoch and 86% accuracy**
 
 
 ![2  Designed Neural Network](https://user-images.githubusercontent.com/29537650/86046942-b3db9280-ba6b-11ea-93ac-ca8bcf004084.png)
