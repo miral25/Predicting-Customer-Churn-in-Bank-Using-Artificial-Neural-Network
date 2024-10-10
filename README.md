@@ -25,7 +25,8 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-*1. Trained ANN model, after Running 100 epochs and 86% accuracy*  
+Trained ANN model, after Running 100 epochs and 86% accuracy
+    
 ![1  Trained ANN model, after Running 100 epoch and 86% accuracy](https://user-images.githubusercontent.com/29537650/86046940-b2aa6580-ba6b-11ea-8550-6e13a37234b3.png)
 
 ![2  Designed Neural Network](https://user-images.githubusercontent.com/29537650/86046942-b3db9280-ba6b-11ea-93ac-ca8bcf004084.png)
