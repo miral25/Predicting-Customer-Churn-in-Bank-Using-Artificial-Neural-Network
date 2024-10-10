@@ -19,10 +19,6 @@ This project uses customer data from a bank to construct a predictive model for 
 ## Usage
 - Follow the outputs to analyze customer churn predictions.
 
-## License
-This project is licensed under the MIT License.
-
-
 ## Screenshots
 
 ### 1. Trained ANN model, after Running 100 epochs and 86% accuracy
@@ -43,3 +39,6 @@ This project is licensed under the MIT License.
 
 ### 6. Result showing surname and prediction
 ![6  Result showing surname and prediction](https://user-images.githubusercontent.com/29537650/86046954-b6d68300-ba6b-11ea-8987-95c84eafee8d.png)
+
+## License
+This project is licensed under the MIT License.
